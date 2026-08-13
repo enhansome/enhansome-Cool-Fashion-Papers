@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Synthesis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Classification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Recommendation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forecast"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fashion-MNIST [zalandoresearch/fashion-mnist]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-13T20:36:21Z",
+            "owner": "zalandoresearch",
+            "repo": "fashion-mnist",
+            "stars": 12809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepFashion2 Dataset [website]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-28T04:30:15Z",
+            "owner": "switchablenorms",
+            "repo": "DeepFashion2",
+            "stars": 2620
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Companies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[ayushidalmia/awesome-fashion-ai]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-12T18:29:30Z",
+            "owner": "ayushidalmia",
+            "repo": "awesome-fashion-ai",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[lzhbrian/image-to-image-papers]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-03-20T16:05:56Z",
+            "owner": "lzhbrian",
+            "repo": "image-to-image-papers",
+            "stars": 1129
+          }
+        }
+      ],
+      "title": "Other Useful Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:59.249Z",
+    "original_repository": "lzhbrian/Cool-Fashion-Papers",
+    "original_repository_sha": "0f460a49c1afd77543a9ee4b5b25ba608ff6c6c9",
+    "enhanced_repository": "enhansome/enhansome-Cool-Fashion-Papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cool Fashion Papers 👔👗🕶️🎩 with stars"
+  }
+}
