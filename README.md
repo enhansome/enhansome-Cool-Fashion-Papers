@@ -61,7 +61,7 @@ Feel free to send a PR or issue.
 |              | Studio2Shop: from studio photo shoots to fashion articles                                                               | ICPRAM 2018 | [\[1807.00556\]](https://arxiv.org/abs/1807.00556)                                                                                |                                                                                                                                                |
 | FashionBrain | FashionBrain Project: A Vision for Understanding Europe's Fashion Data Universe                                         | KDDW 2017   | [\[1710.09788\]](https://arxiv.org/abs/1710.09788)                                                                                | [\[project\]](https://fashionbrain-project.eu/)                                                                                                |
 |              | Automatic Spatially-aware Fashion Concept Discovery                                                                     | ICCV 2017   | [\[1708.01311\]](https://arxiv.org/abs/1708.01311)                                                                                | [\[xthan / fashion-200k\]](https://github.com/xthan/fashion-200k) ⭐ 70 \| 🐛 0 \| 📅 2022-03-10                                                |
-| DFA          | Fashion Landmark Detection in the Wild                                                                                  | ECCV 2016   | [\[1608.03049\]](https://arxiv.org/abs/1608.03049)                                                                                | [\[liuziwei7 / fashion-landmarks\]](https://github.com/liuziwei7/fashion-landmarks) ⭐ 355 \| 🐛 7 \| 🌐 MATLAB \| 📅 2021-10-09                |
+| DFA          | Fashion Landmark Detection in the Wild                                                                                  | ECCV 2016   | [\[1608.03049\]](https://arxiv.org/abs/1608.03049)                                                                                | [\[liuziwei7 / fashion-landmarks\]](https://github.com/liuziwei7/fashion-landmarks) ⭐ 356 \| 🐛 7 \| 🌐 MATLAB \| 📅 2021-10-09                |
 | FashionNet   | DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations                                    | CVPR 2016   | [\[paper\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) | [\[project\]](https://liuziwei7.github.io/projects/DeepFashion.html)                                                                           |
 
 ### Recommendation
@@ -139,9 +139,9 @@ Feel free to send a PR or issue.
 
 ## Other Useful Resources
 
-1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,234 | 🐛 10 | 📅 2021-11-12
+1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 15 | 📅 2021-11-12
 2. [\[lzhbrian/image-to-image-papers\]](https://github.com/lzhbrian/image-to-image-papers) ⭐ 1,129 | 🐛 4 | 📅 2020-03-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
