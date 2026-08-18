@@ -55,7 +55,7 @@ Feel free to send a PR or issue.
 
 | Model        | Title                                                                                                                   | Publication | Paper                                                                                                                             | Link                                                                                                                                           |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| DeepFashion2 | DeepFashion2: A Versatile Benchmark for Detection Pose Estimation Segmentation and Re-Identification of Clothing Images | CVPR 2019   | [\[1901.07973\]](https://arxiv.org/abs/1901.07973)                                                                                | [\[switchablenorms / DeepFashion2\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,619 \| 🐛 61 \| 🌐 Jupyter Notebook \| 📅 2025-01-28 |
+| DeepFashion2 | DeepFashion2: A Versatile Benchmark for Detection Pose Estimation Segmentation and Re-Identification of Clothing Images | CVPR 2019   | [\[1901.07973\]](https://arxiv.org/abs/1901.07973)                                                                                | [\[switchablenorms / DeepFashion2\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,620 \| 🐛 61 \| 🌐 Jupyter Notebook \| 📅 2025-01-28 |
 |              | Brand > Logo: Visual Analysis of Fashion Brands                                                                         | ECCVW 2018  | [\[1810.09941\]](https://arxiv.org/abs/1810.09941)                                                                                |                                                                                                                                                |
 | BCRNN        | Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification                   | CVPR 2018   | [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.pdf)             |                                                                                                                                                |
 |              | Studio2Shop: from studio photo shoots to fashion articles                                                               | ICPRAM 2018 | [\[1807.00556\]](https://arxiv.org/abs/1807.00556)                                                                                |                                                                                                                                                |
@@ -106,7 +106,7 @@ Feel free to send a PR or issue.
 ## Datasets
 
 1. Fashion-MNIST [\[zalandoresearch/fashion-mnist\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-2. DeepFashion2 Dataset [\[website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,619 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+2. DeepFashion2 Dataset [\[website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,620 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 3. Fashionpedia [\[website\]](https://fashionpedia.github.io/home/index.html)
 4. DeepFashion Dataset [\[website\]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 5. FashionGen [\[website\]](https://fashion-gen.com/)
@@ -139,9 +139,9 @@ Feel free to send a PR or issue.
 
 ## Other Useful Resources
 
-1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 15 | 📅 2021-11-12
+1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 17 | 📅 2021-11-12
 2. [\[lzhbrian/image-to-image-papers\]](https://github.com/lzhbrian/image-to-image-papers) ⭐ 1,129 | 🐛 4 | 📅 2020-03-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
