@@ -1,32 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Classification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Recommendation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Forecast"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -35,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101399935,
             "language": "Python",
             "last_commit": "2022-06-13T20:36:21Z",
             "owner": "zalandoresearch",
@@ -49,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165797167,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-28T04:30:15Z",
             "owner": "switchablenorms",
@@ -60,12 +37,7 @@
       "title": "Datasets"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Companies"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -74,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97584578,
             "language": null,
             "last_commit": "2021-11-12T18:29:30Z",
             "owner": "ayushidalmia",
@@ -88,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147687846,
             "language": null,
             "last_commit": "2020-03-20T16:05:56Z",
             "owner": "lzhbrian",
@@ -100,7 +74,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:36:20.141Z",
+    "last_updated": "2026-08-19T11:36:30.983Z",
     "original_repository": "lzhbrian/Cool-Fashion-Papers",
     "original_repository_sha": "0f460a49c1afd77543a9ee4b5b25ba608ff6c6c9",
     "enhanced_repository": "enhansome/enhansome-Cool-Fashion-Papers",
