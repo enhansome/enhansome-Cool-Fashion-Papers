@@ -4,6 +4,243 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CIT",
+              "description": "CIT: Cloth Interactive Transformer for Virtual Try-On arXiv [2104.05519] [Amazingren / CIT]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357142429,
+                "language": "Python",
+                "last_commit": "2021-06-05T16:39:47Z",
+                "owner": "Amazingren",
+                "repo": "CIT",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VITON-HD",
+              "description": "VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization CVPR 2021 [2103.16874] [shadow2496 / VITON-HD]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353640853,
+                "language": "Python",
+                "last_commit": "2025-04-27T14:52:13Z",
+                "owner": "shadow2496",
+                "repo": "VITON-HD",
+                "stars": 1161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DCTON",
+              "description": "Disentangled Cycle Consistency for Highly-realistic Virtual Try-On CVPR 2021 [2103.09479] [ChongjianGE / DCTON]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345945334,
+                "language": "Python",
+                "last_commit": "2023-06-08T14:49:17Z",
+                "owner": "ChongjianGE",
+                "repo": "DCTON",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PF-AFN",
+              "description": "Parser-Free Virtual Try-on via Distilling Appearance Flows CVPR 2021 [2103.04559] [geyuying / PF-AFN]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345255396,
+                "language": "Python",
+                "last_commit": "2021-10-09T13:35:40Z",
+                "owner": "geyuying",
+                "repo": "PF-AFN",
+                "stars": 558
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]",
+              "description": "Down to the Last Detail: Virtual Try-on with Detail Carving arXiv [1912.06324] [AIprogrammer / Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225595450,
+                "language": "Python",
+                "last_commit": "2021-05-17T11:10:42Z",
+                "owner": "JDAI-CV",
+                "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwapNet",
+              "description": "SwapNet: Image Based Garment Transfer ECCV 2018 [paper] [andrewjong / SwapNet]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 204779218,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-12-05T09:40:18Z",
+                "owner": "andrewjong",
+                "repo": "SwapNet",
+                "stars": 389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CP-VITON",
+              "description": "Toward Characteristic-Preserving Image-based Virtual Try-On Network ECCV 2018 [1807.07688] [sergeywong / cp-vton]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147066985,
+                "language": "Python",
+                "last_commit": "2020-12-01T13:01:59Z",
+                "owner": "sergeywong",
+                "repo": "cp-vton",
+                "stars": 529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[zalandoresearch / disentangling_conditional_gans]",
+              "description": "Disentangling Multiple Conditional Inputs in GANs ECCVW 2018 [1806.07819] [zalandoresearch / disentangling_conditional_gans]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138027098,
+                "language": "Python",
+                "last_commit": "2018-12-12T14:47:55Z",
+                "owner": "zalandoresearch",
+                "repo": "disentangling_conditional_gans",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VITON",
+              "description": "VITON: An Image-based Virtual Try-on Network CVPR 2018 [1711.08447] [xthan / VITON]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113921889,
+                "language": "Python",
+                "last_commit": "2023-04-26T14:13:28Z",
+                "owner": "xthan",
+                "repo": "VITON",
+                "stars": 582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DVBPR",
+              "description": "Visually-Aware Fashion Recommendation and Design with Generative Image Models ICDM 2017 [1711.02231] [kang205 / DVBPR]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122675446,
+                "language": "Python",
+                "last_commit": "2018-10-23T18:00:25Z",
+                "owner": "kang205",
+                "repo": "DVBPR",
+                "stars": 196
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Synthesis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepFashion2",
+              "description": "DeepFashion2: A Versatile Benchmark for Detection Pose Estimation Segmentation and Re-Identification of Clothing Images CVPR 2019 [1901.07973] [switchablenorms / DeepFashion2]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165797167,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-01-28T04:30:15Z",
+                "owner": "switchablenorms",
+                "repo": "DeepFashion2",
+                "stars": 2624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[xthan / fashion-200k]",
+              "description": "Automatic Spatially-aware Fashion Concept Discovery ICCV 2017 [1708.01311] [xthan / fashion-200k]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101453479,
+                "language": null,
+                "last_commit": "2022-03-10T02:11:18Z",
+                "owner": "xthan",
+                "repo": "fashion-200k",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DFA",
+              "description": "Fashion Landmark Detection in the Wild ECCV 2016 [1608.03049] [liuziwei7 / fashion-landmarks]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82388724,
+                "language": "MATLAB",
+                "last_commit": "2021-10-09T02:21:13Z",
+                "owner": "liuziwei7",
+                "repo": "fashion-landmarks",
+                "stars": 356
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Classification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[xthan / polyvore]",
+              "description": "Learning Fashion Compatibility with Bidirectional LSTMs MM 2017 [1707.05691] [xthan / polyvore]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106240946,
+                "language": "Python",
+                "last_commit": "2021-09-29T09:33:40Z",
+                "owner": "xthan",
+                "repo": "polyvore",
+                "stars": 166
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recommendation"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Fashion-MNIST [zalandoresearch/fashion-mnist]",
           "description": null,
@@ -74,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:40:53.347Z",
+    "last_updated": "2026-08-24T14:20:20.423Z",
     "original_repository": "lzhbrian/Cool-Fashion-Papers",
     "original_repository_id": 170319458,
     "original_repository_sha": "0f460a49c1afd77543a9ee4b5b25ba608ff6c6c9",
