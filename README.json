@@ -252,7 +252,7 @@
             "last_commit": "2022-06-13T20:36:21Z",
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12809
+            "stars": 12810
           }
         },
         {
@@ -311,9 +311,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:41:13.246Z",
-    "original_repository": "lzhbrian/Cool-Fashion-Papers",
-    "original_repository_id": 170319458,
+    "last_updated": "2026-08-27T11:31:33.373Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 170319458,
+      "language": "Shell",
+      "last_commit": "2021-09-19T15:08:19Z",
+      "owner": "lzhbrian",
+      "repo": "Cool-Fashion-Papers",
+      "stars": 635
+    },
     "original_repository_sha": "0f460a49c1afd77543a9ee4b5b25ba608ff6c6c9",
     "enhanced_repository": "enhansome/enhansome-Cool-Fashion-Papers",
     "enhanced_repository_description": null,
