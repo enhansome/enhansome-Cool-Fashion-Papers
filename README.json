@@ -18,7 +18,8 @@
                 "owner": "Amazingren",
                 "repo": "CIT",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
                 "stars": 1161
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ChongjianGE",
                 "repo": "DCTON",
                 "stars": 103
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2021-10-09T13:35:40Z",
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 558
-              }
+                "stars": 559
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "JDAI-CV",
                 "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "andrewjong",
                 "repo": "SwapNet",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "sergeywong",
                 "repo": "cp-vton",
                 "stars": 529
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "zalandoresearch",
                 "repo": "disentangling_conditional_gans",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "xthan",
                 "repo": "VITON",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "kang205",
                 "repo": "DVBPR",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             }
           ],
           "description": null,
@@ -174,8 +184,9 @@
                 "last_commit": "2025-01-28T04:30:15Z",
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2625
-              }
+                "stars": 2626
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "xthan",
                 "repo": "fashion-200k",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "liuziwei7",
                 "repo": "fashion-landmarks",
                 "stars": 356
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "xthan",
                 "repo": "polyvore",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T21:21:10.674Z"
             }
           ],
           "description": null,
@@ -253,7 +267,8 @@
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
             "stars": 12810
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.674Z"
         },
         {
           "node_type": "item",
@@ -267,8 +282,9 @@
             "last_commit": "2025-01-28T04:30:15Z",
             "owner": "switchablenorms",
             "repo": "DeepFashion2",
-            "stars": 2625
-          }
+            "stars": 2626
+          },
+          "first_seen": "2026-08-28T21:21:10.674Z"
         }
       ],
       "title": "Datasets"
@@ -289,7 +305,8 @@
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
             "stars": 1233
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.674Z"
         },
         {
           "node_type": "item",
@@ -304,14 +321,15 @@
             "owner": "lzhbrian",
             "repo": "image-to-image-papers",
             "stars": 1129
-          }
+          },
+          "first_seen": "2026-08-28T21:21:10.674Z"
         }
       ],
       "title": "Other Useful Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:00:03.802Z",
+    "last_updated": "2026-08-28T21:21:10.674Z",
     "original_repository_info": {
       "archived": false,
       "id": 170319458,
