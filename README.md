@@ -105,7 +105,7 @@ Feel free to send a PR or issue.
 
 ## Datasets
 
-1. Fashion-MNIST [\[zalandoresearch/fashion-mnist\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,807 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+1. Fashion-MNIST [\[zalandoresearch/fashion-mnist\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 2. DeepFashion2 Dataset [\[website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,626 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 3. Fashionpedia [\[website\]](https://fashionpedia.github.io/home/index.html)
 4. DeepFashion Dataset [\[website\]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
@@ -144,4 +144,4 @@ Feel free to send a PR or issue.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
