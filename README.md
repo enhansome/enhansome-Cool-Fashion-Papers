@@ -105,7 +105,7 @@ Feel free to send a PR or issue.
 
 ## Datasets
 
-1. Fashion-MNIST [\[zalandoresearch/fashion-mnist\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,810 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+1. Fashion-MNIST [\[zalandoresearch/fashion-mnist\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,811 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 2. DeepFashion2 Dataset [\[website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,629 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 3. Fashionpedia [\[website\]](https://fashionpedia.github.io/home/index.html)
 4. DeepFashion Dataset [\[website\]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
@@ -139,9 +139,9 @@ Feel free to send a PR or issue.
 
 ## Other Useful Resources
 
-1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,233 | 🐛 29 | 📅 2021-11-12
+1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,234 | 🐛 29 | 📅 2021-11-12
 2. [\[lzhbrian/image-to-image-papers\]](https://github.com/lzhbrian/image-to-image-papers) ⭐ 1,129 | 🐛 4 | 📅 2020-03-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
