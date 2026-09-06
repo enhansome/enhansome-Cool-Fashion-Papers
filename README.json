@@ -256,7 +256,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2629,
+                "stars": 2628,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12811,
+            "stars": 12813,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -396,7 +396,7 @@
             "open_issues": 61,
             "owner": "switchablenorms",
             "repo": "DeepFashion2",
-            "stars": 2629,
+            "stars": 2628,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.674Z"
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:50:43.809Z",
+    "last_updated": "2026-09-06T14:07:49.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
