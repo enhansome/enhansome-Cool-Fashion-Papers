@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1162,
+                "stars": 1161,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:03:57.576Z",
+    "last_updated": "2026-09-13T14:54:14.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
@@ -484,7 +484,7 @@
       "open_issues": 7,
       "owner": "lzhbrian",
       "repo": "Cool-Fashion-Papers",
-      "stars": 635,
+      "stars": 636,
       "topics": [
         "artificial-intelligence",
         "awesome-list",
