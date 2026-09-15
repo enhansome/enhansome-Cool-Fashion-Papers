@@ -91,7 +91,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 559,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12823,
+            "stars": 12826,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:56:37.435Z",
+    "last_updated": "2026-09-15T15:32:26.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
