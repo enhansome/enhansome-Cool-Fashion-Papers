@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12827,
+            "stars": 12829,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -423,7 +423,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1234,
+            "stars": 1235,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:31:21.270Z",
+    "last_updated": "2026-09-18T14:56:59.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
