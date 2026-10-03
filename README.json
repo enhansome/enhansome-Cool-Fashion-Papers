@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1166,
+                "stars": 1167,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "Fashion-MNIST [zalandoresearch/fashion-mnist]",
-          "description": null,
+          "description": "zalandoresearch/fashion-mnist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12841,
+            "stars": 12842,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -383,7 +383,7 @@
         {
           "node_type": "item",
           "title": "DeepFashion2 Dataset [website]",
-          "description": null,
+          "description": "switchablenorms/DeepFashion2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,7 +410,7 @@
         {
           "node_type": "item",
           "title": "[ayushidalmia/awesome-fashion-ai]",
-          "description": null,
+          "description": "ayushidalmia/awesome-fashion-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -438,7 +438,7 @@
         {
           "node_type": "item",
           "title": "[lzhbrian/image-to-image-papers]",
-          "description": null,
+          "description": "lzhbrian/image-to-image-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:41.149Z",
+    "last_updated": "2026-10-03T04:27:51.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
