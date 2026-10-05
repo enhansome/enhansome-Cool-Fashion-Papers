@@ -42,7 +42,7 @@
                 "open_issues": 0,
                 "owner": "shadow2496",
                 "repo": "VITON-HD",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "clothing-agnostic-representation",
                   "deep-learning",
@@ -161,7 +161,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 531,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -203,7 +203,7 @@
                 "open_issues": 21,
                 "owner": "xthan",
                 "repo": "VITON",
-                "stars": 582,
+                "stars": 581,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -224,7 +224,7 @@
                 "open_issues": 4,
                 "owner": "kang205",
                 "repo": "DVBPR",
-                "stars": 196,
+                "stars": 195,
                 "topics": [
                   "fashion",
                   "generative-adversarial-network",
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12842,
+            "stars": 12841,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -423,7 +423,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1239,
+            "stars": 1240,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:46:40.492Z",
+    "last_updated": "2026-10-05T20:00:47.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
