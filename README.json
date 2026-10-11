@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12845,
+            "stars": 12846,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:12:58.651Z",
+    "last_updated": "2026-10-11T16:37:47.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
