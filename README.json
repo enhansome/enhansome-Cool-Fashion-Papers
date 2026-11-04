@@ -91,7 +91,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 560,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -256,7 +256,7 @@
                 "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2641,
+                "stars": 2642,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12878,
+            "stars": 12879,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -396,7 +396,7 @@
             "open_issues": 60,
             "owner": "switchablenorms",
             "repo": "DeepFashion2",
-            "stars": 2641,
+            "stars": 2642,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.674Z"
@@ -423,7 +423,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1244,
+            "stars": 1243,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:23:46.005Z",
+    "last_updated": "2026-11-04T18:36:06.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
