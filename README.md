@@ -139,9 +139,9 @@ Feel free to send a PR or issue.
 
 ## Other Useful Resources
 
-1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,243 | 🐛 29 | 📅 2021-11-12
+1. [\[ayushidalmia/awesome-fashion-ai\]](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,245 | 🐛 29 | 📅 2021-11-12
 2. [\[lzhbrian/image-to-image-papers\]](https://github.com/lzhbrian/image-to-image-papers) ⭐ 1,129 | 🐛 4 | 📅 2020-03-20
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
