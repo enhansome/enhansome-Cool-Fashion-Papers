@@ -91,7 +91,7 @@
                 "open_issues": 63,
                 "owner": "geyuying",
                 "repo": "PF-AFN",
-                "stars": 558,
+                "stars": 559,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -133,7 +133,7 @@
                 "open_issues": 17,
                 "owner": "andrewjong",
                 "repo": "SwapNet",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -161,7 +161,7 @@
                 "open_issues": 23,
                 "owner": "sergeywong",
                 "repo": "cp-vton",
-                "stars": 530,
+                "stars": 531,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -203,7 +203,7 @@
                 "open_issues": 21,
                 "owner": "xthan",
                 "repo": "VITON",
-                "stars": 582,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -256,7 +256,7 @@
                 "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2646,
+                "stars": 2647,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:10.674Z"
@@ -363,7 +363,7 @@
             "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
-            "stars": 12892,
+            "stars": 12895,
             "topics": [
               "benchmark",
               "computer-vision",
@@ -396,7 +396,7 @@
             "open_issues": 60,
             "owner": "switchablenorms",
             "repo": "DeepFashion2",
-            "stars": 2646,
+            "stars": 2647,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:10.674Z"
@@ -423,7 +423,7 @@
             "open_issues": 29,
             "owner": "ayushidalmia",
             "repo": "awesome-fashion-ai",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "awesome-list",
               "awesome-lists",
@@ -451,7 +451,7 @@
             "open_issues": 4,
             "owner": "lzhbrian",
             "repo": "image-to-image-papers",
-            "stars": 1129,
+            "stars": 1130,
             "topics": [
               "code",
               "computer-vision",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T17:40:47.736Z",
+    "last_updated": "2026-11-16T20:58:05.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
