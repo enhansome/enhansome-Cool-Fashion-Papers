@@ -360,7 +360,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-06-13T20:36:21Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "zalandoresearch",
             "repo": "fashion-mnist",
             "stars": 12900,
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T21:07:20.839Z",
+    "last_updated": "2026-11-25T20:27:16.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "👔👗🕶️🎩 Cool resources about Fashion + AI! (papers, datasets, workshops, companies, ...) (constantly updating)",
